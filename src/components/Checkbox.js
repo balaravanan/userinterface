@@ -2,8 +2,7 @@ import React from 'react'
 
 function Checkbox() {
     return (
-        <div>
-           
+        <div>           
             <br/>
             <hr/>
             <h3>Jai Checkbox</h3>
